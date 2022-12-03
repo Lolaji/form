@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Form utilities",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +14,17 @@
     "web form"
   ],
   "author": "Ajibola Salami",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lolaji/form.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lolaji/form/issues"
+  },
+  "homepage": "https://github.com/Lolaji/form#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

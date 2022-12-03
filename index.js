@@ -1,2 +1,4 @@
-const Form = require('./src');
-module.export = Form;
+// const Form = require('./src');
+import Form from './src/index.js';
+
+export default Form;
